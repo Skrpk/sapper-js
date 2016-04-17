@@ -1,0 +1,43 @@
+.but{
+	display: block;
+    width: 100px;
+}
+
+#playButton{
+	margin: 200px auto;
+	margin-bottom: 20px;
+}
+
+.level{
+	display: none;
+	margin: 30px auto;
+}
+
+.wrapLevel {
+	margin-top: 200px;
+}
+
+.field {
+	position: absolute;
+    top: 20%;
+    left: 0;
+}
+
+#result {
+	margin-top: -175px;
+	text-align: center;
+}
+
+#restart {
+	display: none;
+	margin: 30px 650px;
+	width: 45px;
+	height: 35px;
+}
+
+#backToMain {
+	display: none;
+	position: absolute;
+	top: 550px;
+	left: 20px;
+}
